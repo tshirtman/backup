@@ -1,4 +1,6 @@
-A simple backup solution.
+### A simple backup solution.
+
+Strongly inspired by https://www.sanitarium.net/golug/rsync_backups_2010.html
 
 Because everytime I look for one, everything is too complicated to setup, or to use.
 

@@ -1,0 +1,4 @@
+/home/gabriel/.gvfs
+/home/gabriel/.cache
+/home/gabriel/.dbus
+/home/gabriel/.wpa_cli_history

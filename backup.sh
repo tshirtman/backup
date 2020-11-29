@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -ex
 
-DIR=/mnt/storage_1to/BACKUPS
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
 cd $DIR
 sources=$(cat sources)
